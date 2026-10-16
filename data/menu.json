@@ -1,0 +1,57 @@
+{
+  "currency": "COP",
+  "disclaimer": "Transcripción parcial del texto de la carta enviado por el negocio. Se omitieron las líneas ambiguas del OCR. Precios y disponibilidad pueden cambiar: confirma con el restaurante por WhatsApp.",
+  "categories": [
+    { "id": "all", "label": "Toda la carta" },
+    { "id": "chow-mein", "label": "Chow mein" },
+    { "id": "lo-mein", "label": "Lo mein" },
+    { "id": "carnes", "label": "Carnes" },
+    { "id": "curry", "label": "Curry" },
+    { "id": "pollo", "label": "Pollo" },
+    { "id": "mariscos", "label": "Pescados y mariscos" },
+    { "id": "agridulce", "label": "Agridulce" },
+    { "id": "ensaladas", "label": "Ensaladas" },
+    { "id": "sopas", "label": "Sopas" }
+  ],
+  "items": [
+    { "categoryId": "chow-mein", "name": "Chow mein especial", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con mariscos", "sizes": [{ "label": "Mediano", "price": 28000 }, { "label": "Grande", "price": 41000 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con langostino", "sizes": [{ "label": "Mediano", "price": 28000 }, { "label": "Grande", "price": 41000 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con camarón", "sizes": [{ "label": "Mediano", "price": 19800 }, { "label": "Grande", "price": 31000 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con camarón y pollo", "sizes": [{ "label": "Mediano", "price": 19000 }, { "label": "Grande", "price": 30000 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con lomito", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con pollo", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "chow-mein", "name": "Chow mein con cerdo asado", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+
+    { "categoryId": "lo-mein", "name": "Lo mein especial", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con mariscos", "sizes": [{ "label": "Mediano", "price": 28000 }, { "label": "Grande", "price": 41000 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con langostino", "sizes": [{ "label": "Mediano", "price": 28000 }, { "label": "Grande", "price": 41000 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con camarón", "sizes": [{ "label": "Mediano", "price": 19800 }, { "label": "Grande", "price": 31000 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con camarón y pollo", "sizes": [{ "label": "Mediano", "price": 19000 }, { "label": "Grande", "price": 30000 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con lomito", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con pollo", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+    { "categoryId": "lo-mein", "name": "Lo mein con cerdo asado", "sizes": [{ "label": "Mediano", "price": 18000 }, { "label": "Grande", "price": 26800 }] },
+
+    { "categoryId": "carnes", "name": "Lomito de res en salsa de cebolla", "price": 45000 },
+    { "categoryId": "carnes", "name": "Lomito de res en salsa de tomate", "price": 45000 },
+    { "categoryId": "carnes", "name": "Lomito de res en salsa de pimentón", "price": 45000 },
+
+    { "categoryId": "curry", "name": "Pollo en salsa curry", "price": 40000 },
+    { "categoryId": "curry", "name": "Langostinos en salsa curry", "price": 75000 },
+
+    { "categoryId": "pollo", "name": "Medio pollo", "price": 40000 },
+    { "categoryId": "pollo", "name": "Pechuga sin hueso en salsa de champiñón", "price": 48000 },
+
+    { "categoryId": "mariscos", "name": "Filete de pescado frito", "price": 43000 },
+
+    { "categoryId": "agridulce", "name": "Pollo agridulce", "price": 42000 },
+    { "categoryId": "agridulce", "name": "Cerdo agridulce", "price": 42000 },
+    { "categoryId": "agridulce", "name": "Camarón agridulce", "price": 52000 },
+
+    { "categoryId": "ensaladas", "name": "Ensalada vegetariana", "price": 18000 },
+    { "categoryId": "ensaladas", "name": "Ensalada de pollo", "price": 33000 },
+    { "categoryId": "ensaladas", "name": "Ensalada de camarón", "price": 48000 },
+
+    { "categoryId": "sopas", "name": "Sopa yacomen", "price": 35000 }
+  ]
+}
